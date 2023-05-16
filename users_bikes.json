@@ -1,0 +1,44 @@
+{
+    "bikes": [
+        {
+            "mobile-image": "content/dam/RE-Vintage/shopby-2.jpg",
+            "destop-image": "content/dam/RE-Vintage/shopby-2.jpg",
+            "starting-year": 2010,
+            "end-year": 2011,
+            "bike-count": 80,
+            "starting-price": 40000,
+            "end-price": 60000,
+            "bike-model": "bullet 350"
+        },
+        {
+            "mobile-image": "content/dam/RE-Vintage/shopby-2.jpg",
+            "destop-image": "content/dam/RE-Vintage/shopby-2.jpg",
+            "starting-year": 2012,
+            "end-year": 2013,
+            "bike-count": 120,
+            "starting-price": 60000,
+            "end-price": 80000,
+            "bike-model": "hunter 360"
+        },
+        {
+            "mobile-image": "content/dam/RE-Vintage/shopby-2.jpg",
+            "destop-image": "content/dam/RE-Vintage/shopby-2.jpg",
+            "starting-year": 2013,
+            "end-year": 2014,
+            "bike-count": 120,
+            "starting-price": 610000,
+            "end-price": 80000,
+            "bike-model": "classic 350"
+        },
+        {
+            "mobile-image": "content/dam/RE-Vintage/shopby-2.jpg",
+            "destop-image": "content/dam/RE-Vintage/shopby-2.jpg",
+            "starting-year": 2014,
+            "end-year": 2015,
+            "bike-count": 120,
+            "starting-price": 100001,
+            "end-price": 120000,
+            "bike-model": "thunder-bird"
+        }
+    ]
+}
